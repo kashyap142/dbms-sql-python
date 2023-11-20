@@ -1,0 +1,4 @@
+add db.commit()
+after inserting values in db
+
+pip install mysql-connector-python
